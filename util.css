@@ -1,0 +1,8 @@
+.text-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 3rem;
+    font-family: 'Open Sans', sans-serif;
+}

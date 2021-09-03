@@ -1,0 +1,42 @@
+@media screen and (max-width:1000px){
+    footer{
+        height: 15vh;
+    }
+    .icon a{
+        padding-left: 3rem;
+    }
+}
+@media screen and (max-width:675px){
+    footer{
+        height: 17vh;
+    }
+    .icon a{
+        padding-left: 1rem;
+    }
+}
+@media screen and (max-width:840px){
+    header ul li {
+        padding: 2rem;
+    }
+    .adminprofilecontainer{
+        width: 100%;
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-items: flex-start;
+        align-self: flex-start;
+    }
+}
+@media screen and (max-width:647px){
+    header ul li {
+        padding: 0.5rem;
+    }
+     .adminprofilecontainer{
+        width: 100vh;
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-items: flex-start;
+        align-self: flex-start;
+    }
+}
